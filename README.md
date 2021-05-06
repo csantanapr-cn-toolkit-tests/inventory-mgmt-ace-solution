@@ -1,6 +1,6 @@
 # ACE Toolkit Workspace for managing an Inventory API workflow
 
-change 9
+change 10
 
 This guide provides a walkthrough on how to set up an ACE project to use a REST APi workflow within IBM App Connect Toolkit.  The Github repository is a template containing a Dockerfile and Helm Chart which is used with the [Cloud Native Toolkit](https://cloudnativetoolkit.dev/) to register a Tekton pipeline to build a BAR based on the ACE project and deploy it on a containerized instance of IBM App Connect.  
 
